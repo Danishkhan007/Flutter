@@ -1,0 +1,4 @@
+#Sun May 19 08:48:19 IST 2019
+base.0=/Volumes/DOC/Flutter/custom_cell_widget/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
