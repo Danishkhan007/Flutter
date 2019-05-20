@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Volumes/DATA/Flutter/flutter
 FLUTTER_APPLICATION_PATH=/Volumes/DOC/Flutter/custom_cell_widget
-FLUTTER_TARGET=lib/main.dart
+FLUTTER_TARGET=/Volumes/DOC/Flutter/custom_cell_widget/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Volumes/DATA/Flutter/flutter/bin/cache/artifacts/engine/ios

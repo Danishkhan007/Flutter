@@ -1,11 +1,8 @@
 
 
 import 'package:flutter/material.dart';
+import 'package:custom_cell_widget/measurementList_route.dart';
 
-//our custom cell
-import 'package:custom_cell_widget/ListCell.dart';
-
-// TODO: Pass this information into your custom [Category] widget
 const _categoryName = 'Cold';
 const _categoryIcon = Icons.ac_unit;
 const _categoryColor = Colors.greenAccent;
@@ -23,17 +20,7 @@ class UnitConverterApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Unit Converter',
-      home: Scaffold(
-        backgroundColor: Colors.blue,
-        body: Center(
-          // TODO: Determine what properties you'll need to pass into the widget
-          child: ListCell(
-            name: _categoryName,
-            color: _categoryColor,
-            iconLocation: _categoryIcon,
-          ),
-        ),
-      ),
+      home: MeasureListRoute()
     );
   }
 }
