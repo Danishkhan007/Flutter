@@ -52,7 +52,7 @@ class ListCell extends StatelessWidget {
           onTap: () {
             print('You tapped me');
           },
-
+          focusColor: Colors.limeAccent,
           child: Padding(
             padding: const EdgeInsets.all(8.0),
             child: Row(
@@ -68,6 +68,7 @@ class ListCell extends StatelessWidget {
                   ),
                 ),
                 Center(
+                  
                   child: Text(
                     name,
                     textAlign: TextAlign.center,

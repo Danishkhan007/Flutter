@@ -1,78 +1,153 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/275c5e48ab698e27cff37d1ff48a221d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e157796b32c0bf8763ea4a935bb36a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fbb42ffc5ef77fbcdf3bfd58eb28d025/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ca4f4d30d03000b05a8225b3024fdc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4017318ccbe48681da73db356fdf1630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b0279a501922cd4662b3f617cdd4f47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e49ef4a8435206ea91f44c1224992d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cb15f3c11a29042b1c04191a98864792/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/71e9eb72f9d9d9dff9c5c22c3a43173d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e9e366589a6ac4c29b1e197fe52910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0262933a0b3b247b6613945c58143d7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b6600311f78a9cf5bedf01eb961d4e12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5366c49143b5e3fb96192961240e8adf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f4407457569e0c155568937cb7827e68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c86b1f64b0af9f40996c65156df065be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cda279eae982866ea072d896a1e47173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2c9061416f04cde58231e4bb459e4a72/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eaaedff5bb3c38edec6a5c373de29903/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/30eb05f66919e6e76a0f100843a8a7ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/840e7fd0f69db5f477994c6f9898e334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d48f6600b7d06e5c5f61f675236e6567/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ede28d9eea69c0ad29524ea6e8db2a4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:2:5-44
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:9:5-32:19
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2c9061416f04cde58231e4bb459e4a72/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2c9061416f04cde58231e4bb459e4a72/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:11:9-43
 	android:icon
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:12:9-43
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:10:9-57
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:10:9-57
 activity#com.danish.custom_cell_widget.MainActivity
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:13:9-31:20
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:13:9-31:20
 	android:launchMode
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:15:13-43
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:15:13-43
 	android:hardwareAccelerated
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:18:13-47
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:18:13-47
 	android:windowSoftInputMode
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:19:13-55
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:19:13-55
 	android:configChanges
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:17:13-144
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:17:13-144
 	android:theme
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:16:13-47
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:16:13-47
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:14:13-41
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:14:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:24:13-26:40
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:24:13-26:40
 	android:value
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:26:17-37
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:26:17-37
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:25:17-82
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:25:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:28:17-68
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml:29:27-74
 uses-sdk
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/275c5e48ab698e27cff37d1ff48a221d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/275c5e48ab698e27cff37d1ff48a221d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e157796b32c0bf8763ea4a935bb36a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e157796b32c0bf8763ea4a935bb36a6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fbb42ffc5ef77fbcdf3bfd58eb28d025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fbb42ffc5ef77fbcdf3bfd58eb28d025/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ca4f4d30d03000b05a8225b3024fdc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ca4f4d30d03000b05a8225b3024fdc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4017318ccbe48681da73db356fdf1630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4017318ccbe48681da73db356fdf1630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b0279a501922cd4662b3f617cdd4f47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b0279a501922cd4662b3f617cdd4f47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e49ef4a8435206ea91f44c1224992d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e49ef4a8435206ea91f44c1224992d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cb15f3c11a29042b1c04191a98864792/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/cb15f3c11a29042b1c04191a98864792/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/71e9eb72f9d9d9dff9c5c22c3a43173d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/71e9eb72f9d9d9dff9c5c22c3a43173d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e9e366589a6ac4c29b1e197fe52910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/04e9e366589a6ac4c29b1e197fe52910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0262933a0b3b247b6613945c58143d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0262933a0b3b247b6613945c58143d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/46e95e284d93b031f5eeaf49597a4ad5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b6600311f78a9cf5bedf01eb961d4e12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b6600311f78a9cf5bedf01eb961d4e12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5366c49143b5e3fb96192961240e8adf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5366c49143b5e3fb96192961240e8adf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f4407457569e0c155568937cb7827e68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f4407457569e0c155568937cb7827e68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c86b1f64b0af9f40996c65156df065be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c86b1f64b0af9f40996c65156df065be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cda279eae982866ea072d896a1e47173/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/danish/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cda279eae982866ea072d896a1e47173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2c9061416f04cde58231e4bb459e4a72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2c9061416f04cde58231e4bb459e4a72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eaaedff5bb3c38edec6a5c373de29903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eaaedff5bb3c38edec6a5c373de29903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/30eb05f66919e6e76a0f100843a8a7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/30eb05f66919e6e76a0f100843a8a7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/840e7fd0f69db5f477994c6f9898e334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/840e7fd0f69db5f477994c6f9898e334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d48f6600b7d06e5c5f61f675236e6567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d48f6600b7d06e5c5f61f675236e6567/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ede28d9eea69c0ad29524ea6e8db2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/danish/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ede28d9eea69c0ad29524ea6e8db2a4/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Volumes/DOC/Flutter/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Volumes/DATA/Flutter/Projects/Git/custom_cell_widget/android/app/src/debug/AndroidManifest.xml:6:22-64
